@@ -1,5 +1,0 @@
-device.name=sreekumar
-WS.URL=http://172.26.64.135:8080/axis/services/HHSimulatorService?wsdl
-device.readInterval=5000
-autoscan.batchSize=100
-autoscan.readInterval=1000
